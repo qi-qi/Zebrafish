@@ -6,6 +6,6 @@ Link: [https://github.com/qi-qi/Zebrafish/raw/master/Zebrafish.pdf](https://gith
 
 ![](https://raw.githubusercontent.com/qi-qi/zebrafish/master/sample1.png)
 
-![](https://raw.githubusercontent.com/qi-qi/zebrafish/master/smaple2.png)
+![](https://raw.githubusercontent.com/qi-qi/zebrafish/master/sample2.png)
 
-![](https://raw.githubusercontent.com/qi-qi/zebrafish/master/smaple3.png)
+![](https://raw.githubusercontent.com/qi-qi/zebrafish/master/sample3.png)
