@@ -1,5 +1,5 @@
 # Bachelor Degree Project
-Customized Front-end for Zebrafish Acquisition System
+Data Processing Front-end for Zebrafish Acquisition System
 
 ## Presentation
 Presentation Download Link: [https://github.com/qi-qi/Zebrafish/raw/master/Zebrafish.pdf](https://github.com/qi-qi/Zebrafish/raw/master/Zebrafish.pdf)
