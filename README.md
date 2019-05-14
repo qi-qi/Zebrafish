@@ -1,5 +1,5 @@
 # Bachelor Degree Project
-Matlab Data Processing with Visualization Application for Zebrafish Acquisition System
+Matlab Data Processing with Visualisation Application for Zebrafish Acquisition System
 
 ## Presentation
 Presentation Download Link: [https://github.com/qi-qi/Zebrafish/raw/master/Zebrafish.pdf](https://github.com/qi-qi/Zebrafish/raw/master/Zebrafish.pdf)
